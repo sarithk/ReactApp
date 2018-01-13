@@ -1,4 +1,4 @@
-# Neighborhood Map
+# Profile
 A single page application that shows details of a profile using ReactJS.
 
 
